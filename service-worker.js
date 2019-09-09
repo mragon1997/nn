@@ -11,11 +11,11 @@
  * See https://goo.gl/2aRDsh
  */
 
-importScripts("/workbox-v4.3.1/workbox-sw.js");
-workbox.setConfig({modulePathPrefix: "/workbox-v4.3.1"});
+importScripts("//mragon1997.github.io/nn/workbox-v4.3.1/workbox-sw.js");
+workbox.setConfig({modulePathPrefix: "//mragon1997.github.io/nn/workbox-v4.3.1"});
 
 importScripts(
-  "/precache-manifest.01565380e71e3544c20eb36235ab90ca.js"
+  "//mragon1997.github.io/nn/precache-manifest.2dcee76579d9be67e9e086536fa26ea0.js"
 );
 
 self.addEventListener('message', (event) => {
@@ -34,7 +34,7 @@ workbox.core.clientsClaim();
 self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute(workbox.precaching.getCacheKeyForURL("/index.html"), {
+workbox.routing.registerNavigationRoute(workbox.precaching.getCacheKeyForURL("//mragon1997.github.io/nn/index.html"), {
   
   blacklist: [/^\/_/,/\/[^\/?]+\.[^\/]+$/],
 });
