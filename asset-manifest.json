@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "//mragon1997.github.io/nn/static/css/main.2cce8147.chunk.css",
-    "main.js": "//mragon1997.github.io/nn/static/js/main.9ae6f9d7.chunk.js",
-    "main.js.map": "//mragon1997.github.io/nn/static/js/main.9ae6f9d7.chunk.js.map",
-    "runtime~main.js": "//mragon1997.github.io/nn/static/js/runtime~main.ad4d0617.js",
-    "runtime~main.js.map": "//mragon1997.github.io/nn/static/js/runtime~main.ad4d0617.js.map",
-    "static/js/2.a05432c8.chunk.js": "//mragon1997.github.io/nn/static/js/2.a05432c8.chunk.js",
-    "static/js/2.a05432c8.chunk.js.map": "//mragon1997.github.io/nn/static/js/2.a05432c8.chunk.js.map",
-    "index.html": "//mragon1997.github.io/nn/index.html",
-    "precache-manifest.324fee0f9bf1c1672f651800d3543299.js": "//mragon1997.github.io/nn/precache-manifest.324fee0f9bf1c1672f651800d3543299.js",
-    "service-worker.js": "//mragon1997.github.io/nn/service-worker.js",
-    "static/css/main.2cce8147.chunk.css.map": "//mragon1997.github.io/nn/static/css/main.2cce8147.chunk.css.map",
-    "static/media/logo.svg": "//mragon1997.github.io/nn/static/media/logo.5d5d9eef.svg"
+    "main.css": "//storage.jd.com/file-test/static/css/main.2cce8147.chunk.css",
+    "main.js": "//storage.jd.com/file-test/static/js/main.5dbf916c.chunk.js",
+    "main.js.map": "//storage.jd.com/file-test/static/js/main.5dbf916c.chunk.js.map",
+    "runtime~main.js": "//storage.jd.com/file-test/static/js/runtime~main.df471085.js",
+    "runtime~main.js.map": "//storage.jd.com/file-test/static/js/runtime~main.df471085.js.map",
+    "static/js/2.a05432c8.chunk.js": "//storage.jd.com/file-test/static/js/2.a05432c8.chunk.js",
+    "static/js/2.a05432c8.chunk.js.map": "//storage.jd.com/file-test/static/js/2.a05432c8.chunk.js.map",
+    "index.html": "//storage.jd.com/file-test/index.html",
+    "precache-manifest.26ecc632b429647ee894e07a555c8464.js": "//storage.jd.com/file-test/precache-manifest.26ecc632b429647ee894e07a555c8464.js",
+    "service-worker.js": "//storage.jd.com/file-test/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "//storage.jd.com/file-test/static/css/main.2cce8147.chunk.css.map",
+    "static/media/logo.svg": "//storage.jd.com/file-test/static/media/logo.5d5d9eef.svg"
   }
 }
